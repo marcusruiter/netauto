@@ -1,7 +1,7 @@
 mngt_ip 10.80.90.78
 vlans:
   red:
-    id:10
+    id:25
   blue:
     id:20
   ports:
